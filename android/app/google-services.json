@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830718420619",
+    "project_id": "projeto-appsmoveis",
+    "storage_bucket": "projeto-appsmoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830718420619:android:674bfcda1449ffd07f168e",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZI6zGmWiU6t9ldbElBV6ZuOHZxbGvHOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
