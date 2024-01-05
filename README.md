@@ -1,15 +1,10 @@
 # to_do_list_app
 
-A new Flutter project.
+. This was my First flutter aplication, it consists in a simple but efficient and aesthetic To-Do-list App made with Flutter and FireBase as Backend.
+. The app contains a login system connected to Firebase and a main page to add the tasks we want to do in our day.
+. All the tasks are connected to firebase and we can create, update, and delete the tasks, and when we finish the task we mark the checkbox.
+. It was an app that i really liked to do and learned a lot about flutter and android development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
